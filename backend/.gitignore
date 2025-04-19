@@ -1,0 +1,5 @@
+node_modules/
+.env
+.qodo
+dist/
+.DS_Store
